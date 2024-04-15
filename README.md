@@ -1,4 +1,4 @@
-# Scripting
+# Scripting language
 
 Lightweight go-like scripting language.
 
@@ -11,7 +11,7 @@ script.Compile(string(source)).Run(storage)
 
 ## Command
 
-```shell
+```sh
 gs [args...]
 ```
 
